@@ -19,6 +19,7 @@
  -->
 
 <br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustinByrne&layout=compact&hide_border=true)
 <br/>
 
 <h3 align="center"> ✨ Thanks  for visiting my Github Profile ✨ </h3>
