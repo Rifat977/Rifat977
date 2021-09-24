@@ -4,7 +4,7 @@
 **@Rifat977**
 
 - 🌱 I’m currently learning coding
-- 📫 How to reach me: [RiFat](https://www.facebook.com/odrisso.balok.7524/)
+- 📫 How to reach me: [RiFat](https://www.facebook.com/rifat.m.me)
 
 
 ### Languages and Tools:
