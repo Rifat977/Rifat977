@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Adbullah Al Mamun RiFat</h1>
-<h3 align="center">Code fo Eat</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat977&label=Profile%20views&color=0e75b6&style=flat" alt="rifat977" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifat977" alt="rifat977" /></a> </p>
+
+- 🌱 I’m currently working with **Software Development**
+
+- 📝 Learning **more and more**
+
+- 👨‍💻 All of my projects are available at [http://developer-rifat.herokuapp.com/](http://developer-rifat.herokuapp.com/)
+
+- 💬 Ask me about **Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
