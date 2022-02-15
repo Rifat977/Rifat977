@@ -14,8 +14,8 @@
 <p align="left">
 <a href="https://www.codechef.com/users/rifat977" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rifat977" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/itscrifat5147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itscrifat5147" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rifat977" target="blank">![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)</a>
-<a href="https://www.leetcode.com/rifat36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rifat36" height="30" width="40" /></a>
+
+<a href="https://www.leetcode.com/rifat36" target="blank"><img align="center" src="![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)" alt="rifat36" height="30" width="40" /></a>
 
 </p>
 
