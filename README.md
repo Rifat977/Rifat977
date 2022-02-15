@@ -12,12 +12,7 @@
 
 <h3 align="left">Online Judge Profile:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/Rifat977" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="rifat977" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/itscrifat5147" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="itscrifat5147" height="30" width="40" /></a>
-
-<a href="https://www.codechef.com/users/rifat977" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="rifat36" height="35" width="90" /></a>
-
+<a href="https://codeforces.com/profile/Rifat977" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="rifat977" height="35" width="90" /></a> <a href="https://www.hackerrank.com/itscrifat5147" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="itscrifat5147" height="35" width="90" /></a> <a href="https://www.codechef.com/users/rifat977" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="rifat36" height="35" width="90" /></a>
 
 </p>
 
