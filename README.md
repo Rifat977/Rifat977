@@ -13,7 +13,7 @@
 <h3 align="left">Online Judge Profile:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/rifat977" target="blank">
-<img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="rifat36" height="35" width="60" /></a>
+<img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="rifat36" height="35" width="90" /></a>
 
 </p>
 
