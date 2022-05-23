@@ -2,11 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat977&label=Profile%20views&color=0e75b6&style=flat" alt="rifat977" /> </p>
 
 
-- 🌱 I’m currently working with **Software Development**
-
-- 📝 Learning **more and more**
-
-- 👨‍💻 All of my projects are available at [http://developer-rifat.herokuapp.com/](http://developer-rifat.herokuapp.com/)
+- 🌱 I’m currently working with **Application Development**
 
 - 💬 Ask me about **Programming**
 
