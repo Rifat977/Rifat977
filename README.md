@@ -31,11 +31,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat977&show_icons=true&locale=en&theme=dark&background=000000" alt="rifat977" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifat977&theme=dark" alt="rifat977" /></p>
+</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat977&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifat977&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifat977&theme=grey&background=000000)](https://git.io/streak-stats)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
