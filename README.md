@@ -29,7 +29,7 @@
  -->
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat977&show_icons=true&locale=en&theme=dark" alt="rifat977" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat977&show_icons=true&locale=en&theme=dark&background=000000" alt="rifat977" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rifat977&theme=dark" alt="rifat977" /></p>
 
