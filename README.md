@@ -29,11 +29,9 @@
  -->
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat977&show_icons=true&locale=en&theme=dark&background=000000" alt="rifat977" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat977&show_icons=true&locale=en&theme=dark&background=000000" alt="rifat977" />
 
-</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifat977&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifat977&theme=dark&background=000000)](https://git.io/streak-stats)
 
