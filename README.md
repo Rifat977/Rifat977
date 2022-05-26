@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Adbullah Al Mamun RiFat</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifat977&label=Profile%20views&color=0e75b6&style=flat" alt="rifat977" /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-rifat977-blue?style=social&logo=Linkedin&logoColor=blue&link=[[https://www.linkedin.com/in/rahad-infosec/](https://www.linkedin.com/in/mamun-rifatdev/)](https://www.linkedin.com/in/mamun-rifatdev/))](https://www.linkedin.com/in/mamun-rifatdev/) [![Twitter Badge](http://img.shields.io/badge/-@rahadinfosec-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/r_fat36)](https://twitter.com/r_fat36)
+```yaml
+-About Me:
+         - Name: Abdullah Al Mamun Rifat
+         - Education: Bsc in Software Engineering
+         - Live in: Dhaka
 
-
-- 🌱 I’m currently working with **Application Development**
-
-- 💬 Ask me about **Programming**
+```
 
 <h3 align="left">Online Judge Profile:</h3>
 <p align="left">
