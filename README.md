@@ -29,10 +29,10 @@
  -->
 </p>
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat977&show_icons=true&locale=en&theme=dark&background=000000" alt="rifat977" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat977&show_icons=true&locale=en&theme=radical&background=000000" alt="rifat977" />
 
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifat977&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifat977&theme=radical&background=000000)](https://git.io/streak-stats)
 
 
