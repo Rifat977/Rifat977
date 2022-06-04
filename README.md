@@ -13,7 +13,7 @@
 <!-- </p> -->
 
  <a href="#">
-    <img src="help/badge1.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="help/go.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
 
 <!-- <h3 align="left">Languages and Tools:</h3>
