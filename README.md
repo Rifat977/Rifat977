@@ -5,7 +5,10 @@
          - Name: Abdullah Al Mamun Rifat
          - Education: Bsc in Software Engineering
          - Live in: Dhaka
-
+         
+-Skills:
+         - Languages: Python, C++, PHP, Javascript
+         - Framework: Django, Laravel, Nuxt JS
 ```
 
 <!-- <h3 align="left">Judge Profile:</h3>
