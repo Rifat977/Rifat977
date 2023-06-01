@@ -5,13 +5,13 @@
          - Name: Abdullah Al Mamun Rifat
          - Studying: Bsc in Software Engineering
          - Live in: Dhaka
-         Backend Developer
-         Cyber Security Enthusiast
+         
+         - Role: Backend Developer
+         - Interested: Machine Learning, Penetration Testing
          
 -Skills:
          - Languages: Python, C++, PHP, Java, Javascript
          - Framework: Django, Laravel, Vue/Nuxt Js
-         - Practicing: (Machine Learning)
 ```
 
 <!-- <h3 align="left">Judge Profile:</h3>
