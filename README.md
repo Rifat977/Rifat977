@@ -3,15 +3,15 @@
 ```yaml
 -About Me:
          - Name: Abdullah Al Mamun Rifat
-         - Education: Bsc in Software Engineering
+         - Studying: Bsc in Software Engineering
          - Live in: Dhaka
-         - (Backend Developer)
+         Backend Developer
+         Cyber Security Enthusiast
          
 -Skills:
          - Languages: Python, C++, PHP, Java, Javascript
          - Framework: Django, Laravel, Vue/Nuxt Js
-         - Practicing (Machine Learning)
-         - Cyber Security Enthusiast
+         - Practicing: (Machine Learning)
 ```
 
 <!-- <h3 align="left">Judge Profile:</h3>
