@@ -4,10 +4,8 @@
 -About Me:
          - Name: Abdullah Al Mamun Rifat
          - Studying: Bsc in Software Engineering
-         - Live in: Dhaka
-         
-         - Role: Backend Developer
-         - Interested: Machine Learning, Penetration Testing
+         - Live in: Dhaka  
+         - Backend Developer
          
 -Skills:
          - Languages: Python, C++, PHP, Java, Javascript
