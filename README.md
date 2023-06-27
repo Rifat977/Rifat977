@@ -1,5 +1,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-rifat977-blue?style=social&logo=Linkedin&logoColor=blue&link=[[https://www.linkedin.com/in/r_fat36/](https://www.linkedin.com/in/mamun-rifatdev/)](https://www.linkedin.com/in/mamun-rifatdev/))](https://www.linkedin.com/in/mamun-rifatdev/) [![Twitter Badge](http://img.shields.io/badge/-@r_fat36-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/r_fat36)](https://twitter.com/r_fat36)
 ![](https://komarev.com/ghpvc/?username=rifat977&style=flat-square)
+
 ```yaml
 About Me:
   - Name: Abdullah Al Mamun Rifat
@@ -8,26 +9,14 @@ About Me:
   - Role: Backend Developer
 
 Skills:
-  Server:
-    - Python
-    - Django
-    - PHP
-    - Laravel
-  Client:
-    - HTML
-    - CSS
-    - Bootstrap
-    - Nuxt.js
-  Web Automation:
-    - BeautifulSoup
-    - Selenium
-    - Scrapy
-  Cloud:
-    - AWS
-    - Azure
-    - Heroku
+    - Server: Python | Django | PHP | Laravel
+    - Client: Bootstrap | Jquery | Vue | Nuxt
+    - Web Automation: BeautifulSoup | Selenium | Scrapy
+    - Cloud Platforms: Docker | AWS | Azure | Heroku 
+    - Databases: Mysql | Sqlite | Postgresql
+    - Web Application Security: SQLi | XSS | CSRF | SSTI | RCE
+``` 
 
-```
 
 <!-- <h3 align="left">Judge Profile:</h3>
 <p align="left">
