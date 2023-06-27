@@ -8,8 +8,10 @@
          - Backend Developer
          
 -Skills:
-         - Languages: Python, C++, PHP, Java, Javascript
-         - Framework: Django, Laravel, Vue/Nuxt Js
+         - Server: Python, Django, PHP, Laravel
+         - Client: Html, CSS, Bootstrap, Nuxt Js
+         - Web Automation: Beautifoulsoup, Selenium, Scrapy
+         - Cloud: AWS, Azure, Heroku
 ```
 
 <!-- <h3 align="left">Judge Profile:</h3>
