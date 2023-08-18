@@ -9,12 +9,11 @@ About Me:
   - Role: Backend Developer
 
 Skills:
-    - Server: Python | Django | PHP | Laravel
-    - Client: Bootstrap | Jquery | Vue | Nuxt
+    - Server: Python & Django | PHP & Laravel
+    - Client: Bootstrap | Tailwind CSS | Vue & Nux JS
     - Web Automation: BeautifulSoup | Selenium | Scrapy
-    - Cloud Platforms: Docker | AWS | Azure | Heroku 
+    - Cloud Platforms: Docker | DigitalOcean | Heroku 
     - Databases: Mysql | Sqlite | Postgresql
-    - Web Application Security: SQLi | XSS | CSRF | SSTI | RCE
 ``` 
 
 
