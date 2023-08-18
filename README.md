@@ -10,11 +10,11 @@ About Me:
 
 Skills:
     - Server: Python & Django | PHP & Laravel
-    - Client: Bootstrap | Tailwind CSS | Vue & Nux JS
+    - Client: Bootstrap | Tailwind CSS | Vue & Nuxt JS
     - Web Automation: BeautifulSoup | Selenium | Scrapy
     - Cloud Platforms: Docker | DigitalOcean | Heroku 
     - Databases: Mysql | Sqlite | Postgresql
-    - Security: Basics of web hacking method.
+    - Security: Basic of web hacking methods.
 ``` 
 
 
