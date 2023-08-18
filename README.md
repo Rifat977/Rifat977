@@ -1,7 +1,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-rifat977-blue?style=social&logo=Linkedin&logoColor=blue&link=[[https://www.linkedin.com/in/r_fat36/](https://www.linkedin.com/in/mamun-rifatdev/)](https://www.linkedin.com/in/mamun-rifatdev/))](https://www.linkedin.com/in/mamun-rifatdev/) [![Twitter Badge](http://img.shields.io/badge/-@r_fat36-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/r_fat36)](https://twitter.com/r_fat36)
 ![](https://komarev.com/ghpvc/?username=rifat977&style=flat-square)
 
-<img src="https://readme-typing-svg.demolab.com/?lines=RiFat+:)&font=Fira%20Code&center=true&width=440&height=45&color=88b0d2&vCenter=true&pause=10&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=RiFat+:)&font=Fira%20Code&center=true&width=440&height=45&color=88b0d2&vCenter=false&pause=10&size=22" />
 
 
 ```yaml
