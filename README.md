@@ -14,6 +14,7 @@ Skills:
     - Web Automation: BeautifulSoup | Selenium | Scrapy
     - Cloud Platforms: Docker | DigitalOcean | Heroku 
     - Databases: Mysql | Sqlite | Postgresql
+    - Security: Basics of web hacking method.
 ``` 
 
 
