@@ -85,6 +85,10 @@ Tools and technologies that I have worked with and am interested in
         <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="jquery" />
       <br>Nuxt Js
     </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=selenium" width="48" height="48" alt="jquery" />
+      <br>Selenium
+    </td>
   </tr>
    <tr>
     <td align="center" width="96">
