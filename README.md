@@ -11,26 +11,21 @@ About Me:
 ``` 
 -->
 
-```go
-package main
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-import (
-	"fmt"
+class SoftwareEngineer:
+    def __init__(self, name, occupation, role):
+        self.name = name
+        self.occupation = occupation
+        self.role = role
+
+me = SoftwareEngineer(
+    name = "Abdullah Al Mamun (Rifat)",
+    occupation = "Studying Bsc in SWE",
+    role = Software Developer
 )
-
-type SoftwareEngineer struct {
-	Name          string
-	Role          string
-	LanguageSpoken []string
-}
-
-func main() {
-	me := SoftwareEngineer{
-		Name:          "Abdllah Al Mamun (Rifat)",
-		Role:          "Software Developer",
-		LanguageSpoken: []string{"Python", "C++", "Javascript"},
-	}
-}
 ```
 
 </p>
