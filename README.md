@@ -30,8 +30,8 @@ func (se SoftwareEngineer) SayHi() {
 
 func main() {
 	me := SoftwareEngineer{
-		Name:          "Zhenye Na",
-		Role:          "Software Engineer",
+		Name:          "Abdllah Al Mamun (Rifat)",
+		Role:          "Software Developer",
 		LanguageSpoken: []string{"zh_CN", "en_US"},
 	}
 	me.SayHi()
