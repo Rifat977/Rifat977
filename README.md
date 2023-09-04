@@ -77,6 +77,10 @@ Tools and technologies that I have worked with and am interested in
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="jquery" />
+      <br>Heroku
+    </td>
   </tr>
    <tr>
     <td align="center" width="96">
