@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Abdullah Al Mamun (Rifat)" />
 </h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-rifat977-blue?style=social&logo=Linkedin&logoColor=blue&link=[[https://www.linkedin.com/in/r_fat36/](https://www.linkedin.com/in/mamun-rifatdev/)](https://www.linkedin.com/in/mamun-rifatdev/))](https://www.linkedin.com/in/mamun-rifatdev/) [![Twitter Badge](http://img.shields.io/badge/-@r_fat36-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/r_fat36)](https://twitter.com/r_fat36)
