@@ -81,6 +81,10 @@ Tools and technologies that I have worked with and am interested in
         <img src="https://skillicons.dev/icons?i=heroku" width="48" height="48" alt="jquery" />
       <br>Heroku
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="jquery" />
+      <br>Nuxt Js
+    </td>
   </tr>
    <tr>
     <td align="center" width="96">
