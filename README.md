@@ -10,11 +10,11 @@ About Me:
 
 </p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifat977&theme=vue-dark)](https://git.io/streak-stats)
+
+
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat977&show_icons=true&locale=en&theme=vue-dark&background=000000" alt="rifat977" />
 
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rifat977&theme=vue-dark)](https://git.io/streak-stats)
 
 Tools and technologies that I have worked with and am interested in
 
