@@ -3,16 +3,9 @@
 
 ```yaml
 About Me:
-  - Name: Abdullah Al Mamun Rifat
+  - Name: Abdullah Al Mamun (Rifat)
   - Studying: BSc in Software Engineering
   - Location: Dhaka, Bangladesh
-  - Role: Backend Developer
-
-Skills:
-    - Backend: Python & Django 
-    - Frontend: Bootstrap | Tailwind CSS | Vue & Nuxt JS
-    - Web Automation: BeautifulSoup | Selenium | Scrapy
-    - Cloud Platforms: Docker | DigitalOcean | Heroku 
 ``` 
 
 </p>
@@ -27,10 +20,6 @@ Tools and technologies that I have worked with and am interested in
 
 <table>
   <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
-    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
@@ -71,17 +60,6 @@ Tools and technologies that I have worked with and am interested in
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
-      <br>GitLab
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
@@ -99,10 +77,6 @@ Tools and technologies that I have worked with and am interested in
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
       <br>PostgreSQL
     </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
-    </td>
   </tr>
    <tr>
     <td align="center" width="96">
@@ -116,10 +90,6 @@ Tools and technologies that I have worked with and am interested in
             <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
       <br>Linux
-    </td>
-                <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
     </td>
   </tr>
  <tr>
