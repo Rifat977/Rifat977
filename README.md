@@ -2,12 +2,41 @@
 [![Linkedin Badge](https://img.shields.io/badge/-rifat977-blue?style=social&logo=Linkedin&logoColor=blue&link=[[https://www.linkedin.com/in/r_fat36/](https://www.linkedin.com/in/mamun-rifatdev/)](https://www.linkedin.com/in/mamun-rifatdev/))](https://www.linkedin.com/in/mamun-rifatdev/) [![Twitter Badge](http://img.shields.io/badge/-@r_fat36-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/r_fat36)](https://twitter.com/r_fat36)
 ![](https://komarev.com/ghpvc/?username=rifat977&style=flat-square)
 
+<!--
 ```yaml
 About Me:
   - Name: Abdullah Al Mamun (Rifat)
   - Studying: BSc in Software Engineering
   - Location: Dhaka, Bangladesh
 ``` 
+-->
+
+```go
+package main
+
+import (
+	"fmt"
+)
+
+type SoftwareEngineer struct {
+	Name          string
+	Role          string
+	LanguageSpoken []string
+}
+
+func (se SoftwareEngineer) SayHi() {
+	fmt.Println("Thanks for dropping by, hope you find some of my work interesting.")
+}
+
+func main() {
+	me := SoftwareEngineer{
+		Name:          "Zhenye Na",
+		Role:          "Software Engineer",
+		LanguageSpoken: []string{"zh_CN", "en_US"},
+	}
+	me.SayHi()
+}
+```
 
 </p>
 
