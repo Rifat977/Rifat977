@@ -24,7 +24,7 @@ class SoftwareEngineer:
 me = SoftwareEngineer(
     name = "Abdullah Al Mamun (Rifat)",
     occupation = "Studying Bsc in SWE",
-    role = Software Developer
+    role = "Software Developer"
 )
 ```
 
