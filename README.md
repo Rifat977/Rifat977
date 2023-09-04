@@ -24,17 +24,12 @@ type SoftwareEngineer struct {
 	LanguageSpoken []string
 }
 
-func (se SoftwareEngineer) SayHi() {
-	fmt.Println("Thanks for dropping by, hope you find some of my work interesting.")
-}
-
 func main() {
 	me := SoftwareEngineer{
 		Name:          "Abdllah Al Mamun (Rifat)",
 		Role:          "Software Developer",
-		LanguageSpoken: []string{"zh_CN", "en_US"},
+		LanguageSpoken: []string{"Python", "C++", "Javascript"},
 	}
-	me.SayHi()
 }
 ```
 
