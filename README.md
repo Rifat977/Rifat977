@@ -15,13 +15,13 @@ About Me:
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class SoftwareEngineer:
+class Programmer:
     def __init__(self, name, occupation, role):
         self.name = name
         self.occupation = occupation
         self.role = role
 
-me = SoftwareEngineer(
+me = Programmer(
     name = "Abdullah Al Mamun (Rifat)",
     occupation = "Studying Bsc in SWE",
     role = "Software Developer"
