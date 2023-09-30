@@ -33,9 +33,10 @@ me = Programmer(
 <!--
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat977&show_icons=true&locale=en&theme=vue-dark&background=000000" alt="rifat977" />
 -->
-
+<!--
 Tools and technologies that I have worked with and am interested in
-
+-->
+<!--
 <table>
   <tr>
     <td align="center" width="96">
@@ -126,5 +127,5 @@ Tools and technologies that I have worked with and am interested in
  </tr>
 </table>
 
-
+-->
 
