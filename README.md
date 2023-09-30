@@ -29,7 +29,7 @@ me = Programmer(
 
 </p>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=rifat977&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Mamun-swe&theme=tokyonight&hide_border=true" width="49%" >
 <!--
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rifat977&show_icons=true&locale=en&theme=vue-dark&background=000000" alt="rifat977" />
 -->
