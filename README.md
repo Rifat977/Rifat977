@@ -18,12 +18,12 @@ class Programmer:
     def __init__(self, name, occupation, role):
         self.name = name
         self.occupation = occupation
-        self.area = area
+        self.bio = bio
 
 me = Programmer(
     name = "Abdullah Al Mamun (Rifat)",
     occupation = "Studying Bsc in SWE",
-    area = "Full-Stack Developer (Python/Django | JavaScript/Nuxt.js) | Cyber Security Enthusiast"
+    bio = "Full-Stack Developer (Python/Django | JavaScript/Nuxt.js) | Cyber Security Enthusiast"
 )
 ```
 
