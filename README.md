@@ -7,7 +7,7 @@ Evolving from a Python and Golang backend developer to a multifaceted software e
 
 ## Interests
 
-- **Currently Working As**: Freelance Software Engineering
+- **Currently Working As**: Freelance Software Developing
 - **Industrial Interest**: DevOps, Site Reliability Engineering (SRE), Network/Information Security Analysis/Engineering
 
 ## Find Me
