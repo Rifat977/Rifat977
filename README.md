@@ -1,5 +1,4 @@
 
-[![Linkedin Badge](https://img.shields.io/badge/-rifat977-blue?style=social&logo=Linkedin&logoColor=blue&link=[[https://www.linkedin.com/in/r_fat36/](https://www.linkedin.com/in/mamun-rifatdev/)](https://www.linkedin.com/in/mamun-rifatdev/))](https://www.linkedin.com/in/mamun-rifatdev/) [![Twitter Badge](http://img.shields.io/badge/-@r_fat36-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/r_fat36)](https://twitter.com/r_fat36)
 ![](https://komarev.com/ghpvc/?username=rifat977&style=flat-square)
 
 # Hi there 👋🏻
@@ -13,7 +12,7 @@ Evolving from a Python and Golang backend developer to a multifaceted software e
 
 ## Find Me
 - **Website**: [Abdullah Al Mamun](https://abdullah-al-mamun-rifat.vercel.app)
-- **Tech Blog**: [Rifat977](https://dev.to/rifat977)
+- **Tech Blog**: [Abdullah Al Mamun](https://dev.to/rifat977)
 - **LinkedIn**: [Abdullah Al Mamun](https://www.linkedin.com/in/rifat977)
 
 I’m always open to new opportunities, learning, and growth. Let’s build something great together!
