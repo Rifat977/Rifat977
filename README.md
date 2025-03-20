@@ -3,7 +3,7 @@
 
 # Hi there 👋🏻
 
-Evolving from a Python and Golang backend developer to a multifaceted software engineer, I focus on creating scalable web applications, automation solutions, and e-commerce platforms. With proficiency in Django, Flask, Vue.js, and DevOps technologies such as Docker and AWS, I enhance deployment and automation processes. Passionate about AI, cybersecurity, and cloud technologies, I thrive on solving complex challenges and driving innovative, secure, and scalable solutions to optimize system performance.
+Evolving from a Python and Golang backend developer to a multifaceted software engineer, I focus on creating scalable web applications, automation solutions, and system design. With proficiency in Django, Flask, Vue.js, and DevOps technologies such as Docker and AWS, I enhance deployment and automation processes. Passionate about AI, cybersecurity, and cloud technologies, I thrive on solving complex challenges and driving innovative, secure, and scalable solutions to optimize system performance.
 
 ## Interests
 
