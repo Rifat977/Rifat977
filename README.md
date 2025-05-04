@@ -11,9 +11,9 @@ Advancing from a Python and Golang backend developer to a multifaceted software 
 - **Industrial Interest**: DevOps, Site Reliability Engineering (SRE), Network/Information Security Analysis/Engineering
 
 ## Find Me
-- **Website**: [Abdullah Al Mamun](https://abdullah-al-mamun-rifat.vercel.app)
-- **Tech Blog**: [Abdullah Al Mamun](https://dev.to/rifat977)
+- **Portfolio**: [Abdullah Al Mamun](https://abdullah-al-mamun-rifat.vercel.app)
 - **LinkedIn**: [Abdullah Al Mamun](https://www.linkedin.com/in/rifat977)
+- **Medium**: [Abdullah Al Mamun](https://medium.com/@rifat977)
 
 I’m always open to new opportunities, learning, and growth. Let’s build something great together!
 
