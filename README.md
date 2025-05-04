@@ -3,7 +3,7 @@
 
 # Hi there 👋🏻
 
-Progressing from a Python and Golang backend developer to a multifaceted software engineer, I focus on creating scalable software, automation systems, and system design. With hands-on experience in Django, Flask, FastAPI, and DevOps tools like Docker and AWS, I streamline deployment and automation to make processes faster and more efficient. Passionate about AI, cybersecurity, and cloud technologies, I love tackling challenging problems and building smart, secure, and scalable solutions that help systems run more efficiently and perform at their best.
+Advancing from a Python and Golang backend developer to a multifaceted software engineer, I focus on creating scalable software, automation systems, and system design. With hands-on experience in Django, Flask, FastAPI, and DevOps tools like Docker and AWS, I streamline deployment and automation to make processes faster and more efficient. Passionate about AI, cybersecurity, and cloud technologies, I love tackling challenging problems and building smart, secure, and scalable solutions that help systems run more efficiently and perform at their best.
 
 ## Interests
 
