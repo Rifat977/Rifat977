@@ -3,4 +3,5 @@
 **Abdullah Al Mamun (RiFat)** | Software Engineer @ Techjays | Python · Golang · Rust  
 Passionate about **cybersecurity, DevOps, and performance engineering**  
 
-> $ open linkedin://rifat977
+> $ open [LinkedIn://rifat977](https://www.linkedin.com/in/rifat977)
+
