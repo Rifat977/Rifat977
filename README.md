@@ -1,5 +1,6 @@
 λ Hello, world of code
 
-I’m **Abdullah Al Mamun (RiFat)** building **scalable systems** with **Python, Golang, and Rust**, with a strong focus on **cybersecurity** and **performance engineering**.
+**Abdullah Al Mamun (RiFat)** | Software Engineer @ Techjays | Python · Golang · Rust  
+Passionate about **cybersecurity, DevOps, and performance engineering**  
 
-`> open linkedin://rifat977` → [LinkedIn](https://www.linkedin.com/in/rifat977)  
+> $ open linkedin://rifat977
