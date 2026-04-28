@@ -1,4 +1,4 @@
-# λ Hello, world!
+λ Hello, world!
  
 **Abdullah Al Mamun (RiFat)** · Software Engineer @ Techjays
  
